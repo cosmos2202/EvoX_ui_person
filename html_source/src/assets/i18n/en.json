@@ -45,8 +45,8 @@
     "LOG_OUT": "Log Out",
     "LOG_OUT_TOOLTIP": "Logout option available only with Master Password enabled",
     "SYNCHRONIZATION": {
-      "OFFLINE": "Offline",
-      "ONLINE": "Online",
+      "OFFLINE": "ArtFix you Offline",
+      "ONLINE": "ArtFix you Online",
       "ERROR": "System error",
       "COMPLETE": "Completion",
       "SYNCING": "Syncing block",
@@ -128,7 +128,7 @@
       "MAX_LENGTH": "Maximum name length reached"
     },
     "MODAL": {
-      "TITLE": "Type wallet password",
+      "TITLE": "Hi ArtFix, enter your password",
       "LABEL": "Password to this wallet",
       "OPEN": "Open wallet",
       "SKIP": "Skip",
@@ -540,9 +540,9 @@
     "HOUR": "hour",
     "HOURS": "hours",
     "CANCEL": "Cancel",
-    "NULLIFY_QUESTION": "Are you sure you want to burn both deposits?",
+    "NULLIFY_QUESTION": "ArtFix you sure you want to burn both deposits?",
     "BUTTON_NULLIFY_SHORT": "Burn",
-    "WAITING_TIME_QUESTION": "Are you sure you want to cancel the contract?"
+    "WAITING_TIME_QUESTION": "ArtFix you sure you want to cancel the contract?"
   },
   "MESSAGES": {
     "ADDRESS": "Address",
@@ -560,7 +560,7 @@
   "CONFIRM": {
     "BUTTON_CONFIRM": "Send",
     "BUTTON_CANCEL": "Cancel",
-    "TITLE": "Confirm transaction",
+    "TITLE": "ArtFix confirm transaction",
     "MESSAGE": {
       "SEND": "Send",
       "FROM": "From",
